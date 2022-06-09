@@ -1,6 +1,6 @@
 [简体中文](./README-zh_CN.md)
 
-### Hi there
+### 😄 Hi there
 
 <!--
 **Blackman99/Blackman99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,3 +20,4 @@ Here are some ideas to get you started:
 - I'm currently working as a frontend developer
 - Occasionally some new ideas
 - Can use computer technologies to implement ideas
+- [Here's my personal blog website](https://blog.donsen.site/)

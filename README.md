@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 - 🔭 I'm currently working as a frontend developer
 - 🤔 I have new ideas from time to time 
 - 😄 I can use relevant computer technology to implement my ideas
-- ⚡ [Here's my personal blog website](https://blog.donsen.site/)
+- ⚡ [Here's my personal blog website](https://blog.donsen.site/) (Currently Chinese only. Sorry about the inconvenience)
 
 

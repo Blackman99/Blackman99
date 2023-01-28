@@ -27,6 +27,7 @@ These are the technologies I've had experiences in
 [![PHP](https://img.shields.io/badge/__-PHP-777BB4?logo=php)](https://www.php.net/)
 [![Javascript](https://img.shields.io/badge/__-Javascript-F7DF1E?logo=Javascript)](https://www.javascript.com/)
 [![Node.js](https://img.shields.io/badge/__-Node.js-339933?logo=node.js)](https://nodejs.org/)
+[![Typescript](https://img.shields.io/badge/__-Typescript-3178C6?logo=Typescript)](https://www.typescriptlang.org/)
 
 > Framworks
 

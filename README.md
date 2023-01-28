@@ -29,7 +29,7 @@ These are the technologies I've had experiences in
 [![Node.js](https://img.shields.io/badge/__-Node.js-339933?logo=node.js)](https://nodejs.org/)
 [![Typescript](https://img.shields.io/badge/__-Typescript-3178C6?logo=Typescript)](https://www.typescriptlang.org/)
 
-> Framworks
+> Frameworks
 
 [![Spring](https://img.shields.io/badge/__-Spring-6DB33F?logo=spring)](https://spring.io/)
 [![Django](https://img.shields.io/badge/__-Django-092E20?logo=Django)](https://www.djangoproject.com/)

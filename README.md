@@ -4,7 +4,7 @@
 - 🤔 I have new ideas from time to time 
 - 😄 I can use relevant computer technology to implement my ideas
 
-These are the technologies I've had experiences in
+Here are some technologies I've had experiences in
 
 > Linux
 

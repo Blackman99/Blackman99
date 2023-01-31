@@ -14,6 +14,7 @@ Here are some technologies I've had experiences in
 > CI/CD
 
 [![Docker](https://img.shields.io/badge/__-Docker-2496ED?logo=docker)](https://www.docker.com/)
+[![Jenkins](https://img.shields.io/badge/__-Jenkins-D24939?logo=Jenkins)](https://www.docker.com/)
 [![Github Actions](https://img.shields.io/badge/__-Github_Actions-2088FF?logo=Github%2dActions)](https://www.docker.com/)
 
 > Database

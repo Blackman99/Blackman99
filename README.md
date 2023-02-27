@@ -28,5 +28,6 @@
 [![Rollup](https://img.shields.io/badge/Rollup-black?style=for-the-badge&logo=rollup.js)](https://rollupjs.org/)
 [![Vitest](https://img.shields.io/badge/Vitest-black?style=for-the-badge&logo=Vitest)](https://vitest.dev/)
 [![D3.js](https://img.shields.io/badge/D3.js-black?style=for-the-badge&logo=d3.js)](https://d3js.org/)
-[![Apache Echarts](https://img.shields.io/badge/Echarts-black?style=for-the-badge&logo=Apache%2dECharts)](https://d3js.org/)
+[![Apache Echarts](https://img.shields.io/badge/Echarts-black?style=for-the-badge&logo=Apache%2dECharts)](https://echarts.apache.org/)
+[![Tauri](https://img.shields.io/badge/Tauri-black?style=for-the-badge&logo=Tauri)](https://tauri.app/)
 

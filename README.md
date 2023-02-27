@@ -5,6 +5,7 @@
 - 😄 I can use relevant computer technology to implement my ideas
 
 Here are some technologies I've had experiences in
+
 [![Manjaro](https://img.shields.io/badge/__-Manjaro-35BF5C?logo=Manjaro)](https://manjaro.org/)
 [![Arch Linux](https://img.shields.io/badge/__-Arch_Linux-1793D1?logo=Arch%2dLinux)](https://archlinux.org/)
 [![Docker](https://img.shields.io/badge/__-Docker-2496ED?logo=docker)](https://www.docker.com/)

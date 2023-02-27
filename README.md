@@ -2,9 +2,7 @@
 
 - 🔭 I'm currently working as a developer in Beijing, China
 - 🤔 I have new ideas from time to time 
-- 😄 I can use relevant computer technology to implement my ideas
-
-Here are some technologies I've had experiences in
+- 😄 I can learn and use relevant things to implement my ideas
 
 [![Manjaro](https://img.shields.io/badge/__-Manjaro-35BF5C?logo=Manjaro)](https://manjaro.org/)
 [![Arch Linux](https://img.shields.io/badge/__-Arch_Linux-1793D1?logo=Arch%2dLinux)](https://archlinux.org/)

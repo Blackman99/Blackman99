@@ -21,7 +21,6 @@
 [![Laravel](https://img.shields.io/badge/Laravel-black?style=for-the-badge&logo=Laravel)](https://laravel.com/)
 [![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=Express)](https://expressjs.com/)
 [![Vue.js](https://img.shields.io/badge/Vue.js-black?style=for-the-badge&logo=vue.js)](https://vuejs.org/)
-[![React.js](https://img.shields.io/badge/React.js-black?style=for-the-badge&logo=react)](https://reactjs.org/)
 [![Svelte](https://img.shields.io/badge/Svelte-black?style=for-the-badge&logo=Svelte)](https://svelte.dev/)
 [![Webpack](https://img.shields.io/badge/Webpack-black?style=for-the-badge&logo=Webpack)](https://webpack.js.org/)
 [![Vite](https://img.shields.io/badge/Vite-black?style=for-the-badge&logo=vite)](https://vitejs.dev/)

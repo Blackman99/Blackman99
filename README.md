@@ -1,6 +1,6 @@
 ### Hi there, I'm Dongsheng Zhao
 
-- 🔭 I'm currently unemployed
+- 🔭 I'm currently working as a software developer in Beijing China
 - 🤔 I have new ideas from time to time 
 - 😄 I can learn and use relevant things to implement my ideas
 

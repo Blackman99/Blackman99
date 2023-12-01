@@ -30,5 +30,6 @@
 [![Apache Echarts](https://img.shields.io/badge/Echarts-black?style=for-the-badge&logo=Apache%2dECharts)](https://echarts.apache.org/)
 [![Tauri](https://img.shields.io/badge/Tauri-black?style=for-the-badge&logo=Tauri)](https://tauri.app/)
 [![Rust](https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=Rust)](https://rust-lang.org/)
-[![Rust](https://img.shields.io/badge/Nx-black?style=for-the-badge&logo=Nx)](https://nx.dev/)
-
+[![Nx](https://img.shields.io/badge/Nx-black?style=for-the-badge&logo=Nx)](https://nx.dev/)
+[![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=React)](https://react.dev/)
+[![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=Next.js)](https://nextjs.org/)

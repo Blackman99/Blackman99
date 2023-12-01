@@ -33,3 +33,4 @@
 [![Nx](https://img.shields.io/badge/Nx-black?style=for-the-badge&logo=Nx)](https://nx.dev/)
 [![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=React)](https://react.dev/)
 [![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=Next.js)](https://nextjs.org/)
+[![PNPM](https://img.shields.io/badge/PNPM-black?style=for-the-badge&logo=pnpm)](https://pnpm.io/)

@@ -34,3 +34,5 @@
 [![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=React)](https://react.dev/)
 [![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=Next.js)](https://nextjs.org/)
 [![PNPM](https://img.shields.io/badge/PNPM-black?style=for-the-badge&logo=pnpm)](https://pnpm.io/)
+
+![Blackman99's GitHub stats](https://github-readme-stats.vercel.app/api?username=Blackman99&show_icons=true&theme=tokyonight)
